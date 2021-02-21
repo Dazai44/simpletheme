@@ -1,1 +1,1 @@
-# simpletheme
+Пример посадки верстки на wordpress.
